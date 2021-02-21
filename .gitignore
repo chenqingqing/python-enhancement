@@ -1,1 +1,3 @@
 tensorflowai/
+data/
+.ipynb_checkpoints/
